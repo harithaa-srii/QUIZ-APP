@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+  background-image: url('https://images.pexels.com/photos/6985001/pexels-photo-6985001.jpeg?cs=srgb&dl=pexels-codioful-%28formerly-gradienta%29-6985001.jpg&fm=jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.web-name
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight:600;
+}
+  .salutation
+{
+text-align: center;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+color: rgb(20, 12, 1);
+}
+.d
+{
+    width:150px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 50px 70px 50px 40px;
+    text-align:right;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #ffffff;
+    color: rgb(0, 73, 230);
+
+}
+a
+{
+  text-decoration: none;
+}
+
